@@ -1,0 +1,101 @@
+/* CUSTOM STYLES */
+/* Site Wide Styles */
+
+body {
+  margin: 0;
+  padding: 0; 
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Racing Sans One', cursive;
+}
+
+/* HEADER STYLES */
+
+h1 {
+  font-size: 4em;
+  padding-bottom: 0;
+}
+
+.page-header {
+  height: auto;
+}
+
+.contact {
+  color: white;
+  text-decoration: none;
+}
+
+.contact:hover {  
+  text-decoration: none !important;
+  font-weight: bold;
+  color: white;
+  font-size: 1.3em;
+}
+
+.title-nav {
+  font-family: 'Racing Sans One', cursive;
+}
+
+/* NAV STYLES */
+.nav-link {
+  font-size: 1.2em;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+/* CONTACT FORM STYLES */
+
+#in-touch {
+  font-size: 3em;
+}
+
+.contact-side {
+  color: black;
+  text-decoration: none;
+}
+
+.contact-side:hover {  
+  text-decoration: none !important;
+  font-weight: bold;
+  color: black;
+  font-size: 1.3em;
+}
+
+/* FOOTER STYLES */
+
+.copy-link {
+  color: white;
+}
+
+.copy-link:hover {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.fas, .fab {
+  color: white;
+}
+
+.fab:hover {
+  color: blue;
+}
+
+.fas:hover {
+  color: blue;
+}
+
+.fa-icon {
+  position: relative;
+  float: right;
+}
